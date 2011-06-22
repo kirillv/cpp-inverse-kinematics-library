@@ -7,5 +7,6 @@ Jacobian Pseudoinverse
 DLS
 
 TODO:
-Add CCD solver
+Add CCD  solver
+Add SDLD solver
 Add path and trajectory planner
