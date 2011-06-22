@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<Robot name="4Rplanar">
+<Robot name="2Rplanar">
   <Joints>
   <joint name="joint1" id="1" alphai="0" ai="200" di="0" theta="var_0" />
   <joint name="joint2" id="2" alphai="0" ai="200" di="0" theta="var_0" />
