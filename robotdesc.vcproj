@@ -331,6 +331,14 @@
 				>
 			</File>
 			<File
+				RelativePath=".\CCyclicCoordinateDescent.cpp"
+				>
+			</File>
+			<File
+				RelativePath=".\CCyclicCoordinateDescent.h"
+				>
+			</File>
+			<File
 				RelativePath=".\CDumpedLeastSquares.cpp"
 				>
 			</File>

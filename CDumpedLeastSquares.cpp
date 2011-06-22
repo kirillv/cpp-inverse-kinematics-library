@@ -90,7 +90,7 @@ void CDumpedLeastSquares::UpdateJoints( VectorXf & delta_theta )
 {
     JointHandler & _j = _robot.GiveMeJoints();
 
-    for (unsigned int i = 0 ; i < delta_theta.size() ; i++)
+    for (int i = 0 ; i < delta_theta.size() ; i++)
     {
         //TODO ADD CONSTRAINTS
         //new var = old var + delta var
