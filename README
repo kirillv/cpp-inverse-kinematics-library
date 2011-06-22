@@ -1,0 +1,11 @@
+This program loads xml that describes robot in DH parameters and able 
+to solve IK problem.
+
+Solvers:
+Jacobian Transpose
+Jacobian Pseudoinverse
+DLS
+
+TODO:
+Add CCD solver
+Add path and trajectory planner
